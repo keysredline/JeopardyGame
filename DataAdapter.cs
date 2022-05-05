@@ -16,7 +16,7 @@ namespace Jeopardy
     static class DataAdapter
     {
         static SqlConnection oConn = new SqlConnection("Data Source=stusql-cis151-101-fa21.cimq4ah3jd04.us-east-2.rds.amazonaws.com,1433;" +
-                    "Initial Catalog= jf0934599; User Id=jf0934599;Password=934599;");
+                    "Initial Catalog= ******; User Id=******;Password=*******;");
         /// <summary>
         /// connect using the oConn connection string
         /// </summary>
